@@ -27,7 +27,7 @@ pip3 install flask && python3 server.py
 
 ## Direct live demo 🎬
 
-<(https://raw.githack.com/juanmism/4Geeks-PostCard/main/index.html)>
+<https://raw.githack.com/juanmism/4Geeks-PostCard/main/index.html>
 
 💻 _Juan Miguel Sáenz Martel_ (<https://github.com/juanmism>)
 
